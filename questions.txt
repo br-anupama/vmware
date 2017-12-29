@@ -1,0 +1,21 @@
+Hi Anupama,
+ 
+This is Virat here from VMware.
+ 
+We would like to take your interview forward. The next round where we would like to see your coding skills with some real world problems.
+ 
+Please go through the questions mentioned below and try to solve them with the best possible solution you think. You will need to send the solution on or before 1-Jan-2018. You can upload it either on Github or send us over Email.
+ 
+If you have any query regarding questions please feel free to reach out to us over the Email (sanjeevk1@vmware.com) in CC.
+ 
+VMWare coding Test (Python)
+ 
+1.            Write a program to reverse a string.
+2.            Given two strings S1 and S2. Delete from S2 all those characters which occur in S1 also and finally create a clean S2 with the relevant characters deleted.
+3.            Implement a function to delete all instances of a particular item from a linked list.
+a.            Briefly describe your design (that is, what is your approach to implementing the logic for this function)
+b.            Implement the function in a programming language of your choice
+c.            Briefly list down the scenarios that you will test for (in points)
+4.            You are given an array with n elements { x1, x2 ... xk ... xn }. You are also given an array location k. Rotate the array such that it contains { xk, xk+1 ... xn, x1, x2 ... xk-1 }. Optimize for space and time as much as you can.
+5.            You are given a string, without any duplicate characters. For example: “abcd”. Write a function that takes such a string as input and prints all possible permutations of the string.
+ 
