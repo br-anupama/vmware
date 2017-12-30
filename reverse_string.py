@@ -16,7 +16,7 @@ try:
     string = raw_input()
     if not string:
         print "Invalid input received, hence exiting from script !"
-        sys.exit(-0)
+        sys.exit(-1)
 
     reversed_string = reverse(string)
     #reversed_string = reverse_using_lib(string)
